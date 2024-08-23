@@ -1,4 +1,4 @@
-# Blog Title :link: https://qbsp.github.io 
+# 智能奇谈的个人博客 :link: https://qbsp.github.io 
 ### :page_facing_up: [1](https://qbsp.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 19 
