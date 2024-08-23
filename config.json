@@ -3,7 +3,7 @@
     "subTitle":"分享有趣又好玩的网站和应用！",
     "avatarUrl":"https://avatars.githubusercontent.com/u/179208342?s=48&v=4",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "iconList":{"友链":"<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M7.22 6.5a.72.72 0 1 1-1.44 0 .72.72 0 0 1 1.44 0Z"},
+    "iconList":{"友链":"<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"},
 "exlink":{"友链":"https://pan.huang1111.cn/home?path=%2F"},
     "GMEEK_VERSION":"last"
 }
